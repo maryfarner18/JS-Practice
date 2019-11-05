@@ -12,13 +12,13 @@ You have a `db.json` with a list of movies that can be found at `http://localhos
 
 ## Deliverables
 
-- have an index page that lists of the movie cards for every movie in the database
+- have an index page that lists of the movie cards (an `li` with class `movie-card`) for every movie in the database
 - have 1 button and 1 dropdown at the top of the index page
     - the dropdown menu should have options for: `all movies`, `comedy`, `action`, and `horror`
     - when one is selected, the page should show only the movies of that genre (or all movies if `all movies` is clicked)
     - the button should have innerText `add movie` which renders a form that allows a User to enter the `title`, `duration-in-hours`, `cover`, and at least one `cast` member and *optimistically* add that movie to the database
 
-- Each movie card should show the following:
+- Each movie card (an `li` with class `movie-card`) should show the following:
     - `title`
     - `duration-in-hours`
     - `cover`
