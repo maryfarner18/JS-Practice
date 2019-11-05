@@ -1,0 +1,17 @@
+.movie-container{
+    width: 50%;
+    height: 50%;
+    margin: auto;
+}
+.movie-list{
+    width: 30%;
+    margin: auto;
+}
+.movie-card{
+    width: 50%;
+    margin: auto
+}
+img{
+    width: 50%;
+    margin: auto;
+}
