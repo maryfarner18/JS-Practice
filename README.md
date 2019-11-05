@@ -4,6 +4,7 @@
 
 - Full-scale DOM manipulation
 - Fetch Requests
+- Events & Event Delegation
 - Problem Solving in JavaScript
 
 ## Preface
