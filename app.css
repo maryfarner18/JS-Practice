@@ -9,6 +9,7 @@
 
 }
 .movie-card{
+  
     width: 50%;
     margin: auto;
 }
@@ -23,4 +24,10 @@ img{
 .tools{
     width: 50%;
     margin: auto;
+}
+
+form{
+
+    
+    border: black solid 10px;
 }
